@@ -1,0 +1,10 @@
+config_version=5
+
+[application]
+
+config/name="Parry Window Prototype"
+config/features=PackedStringArray("4.3")
+
+[physics]
+
+common/physics_ticks_per_second=60
